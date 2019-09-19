@@ -1,0 +1,31 @@
+
+.bubble-wrap{
+    display: inline-block;
+    flex-wrap: wrap;
+}
+.selection-dropdown{
+    /* height: 200px;
+    width: 300px; */
+    background: white;
+    position: absolute;
+    margin-top: 10px;
+}
+.bubble-container{
+    width: 100%;  
+}
+.listed-email{
+    height: 30px;
+    font-size: 14px;
+    padding-top: 6px;
+    padding-left: 5px;
+}
+/* .listed-email:hover{
+    background: #ecf0f1;
+} */
+.suggestion--container{
+    display: flex;
+    padding: 10px;
+}
+.suggestion--container:hover{
+    background: #ecf0f1;
+}
